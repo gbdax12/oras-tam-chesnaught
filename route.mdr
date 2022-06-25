@@ -94,7 +94,6 @@ Head to the gym.
   :::
 :::::
 
-Equip Oran Berry
 
 **Heal to full!**
 
@@ -236,10 +235,12 @@ Get Leppa Berries from one bush before entering Mauville. Drop Repel and get the
 
 After exiting the mart:
 - Equip the Soft Sand.
-- Teach Bulldoze over Tackle (slot 2).
 - Turn off the Experience Share.
 - Register the Mach Bike.
-- Ride the Mach Bike.
+- Teach Bulldoze over Tackle (slot 2).
+
+Exit menu and ride bike
+
 
 Head north to the gym.
 
@@ -290,8 +291,8 @@ Puzzle (room 2): Top-right blue switch, red switch, top-right blue switch.
 :::::
 
 Exit the gym and head north. At the rocks:
-- Use a Super Repel (keep applied until they run out).
 - Teach Rock Smash over Water Gun (slot 3).
+- Use a Super Repel (keep applied until they run out).
 
 :info[**Free heal**]{color=pink}
 
@@ -354,7 +355,7 @@ Go to the mart.
 > #### Sell (Bottom)
 > - Comet Shard
 > #### Buy (Bottom)
-> - 12 Hyper Potions (>^^)
+> - 11 Hyper Potions (>^^)
 > - 6 Full Heals (>)
 > - 11 Max Repels (>^)
 
@@ -412,12 +413,12 @@ Enter the cable car building (watch out for the spinner in front!) and talk to t
 
 Exit the peak at the left-most tile and bike straight down without stopping.
 
-**Get Swords Dance!!!!!**
+**Get Swords Dance!!!!!** - talk to karate guy outside mart/pokecenter and mash B.
 
  Go to the gym.
 
-- Teach Swords Dance over Bite (slot 1).
 - Heal to full (unless no significant damage was taken).
+- Teach Swords Dance over Bite (slot 1).
 - Equip the Soft Sand.
 
 Gym puzzle:
@@ -466,7 +467,7 @@ Inside the gym, always take the right door when given a choice.
   :::
 :::::
 
-Heal to full.
+Heal if yellow.
 
 :::::trainer[Ace Trainer George]
   :::pokemon[Linoone]
@@ -495,7 +496,7 @@ Heal to full.
     - Needle Arm
     - X Speed
     - X Attack
-    - Full Heal (make sure this is after truant turn)
+    - Full Heal (if asleep and make sure this is after truant turn)
     - Needle Arm
 
     ::damage[Slaking's Retaliate at +0 Defense]{source="Chespin" evolution=1 offensive=false movePower=70 level=28 evs=8 opponentLevel=28 opponentStat=94 combatStages=1 stab=true}
@@ -543,7 +544,7 @@ Heal to full.
 :::::
 
 - Heal if in Ice Fang range.
-- Equip a Persim Berry if used.
+- Equip a Persim Berry if used or not done before.
 
 :info[**RECOMMEND SAVE**]{color=red}
 
@@ -577,6 +578,7 @@ If you took substantial damage in the last fight:
 Run from the first Kecleon. After the Kecleon cutscenes, menu and head to gym:
   - **HEAL TO FULL**
   - Teach Fly to Latias.
+  - Equip Soft Sand.
 
 :info[**RECOMMEND SAVE**]{color=red}
 
@@ -660,13 +662,13 @@ If in yellow health:
 ### Slateport Shopping.
 > #### Buy (Top):
 > - 4 X Speed (if not bought before)
-> - 2 X Attack (inf not bought before)
+> - 2 X Attack (if you didn't get swagger trolled on archie don't buy)
 > - 3 X Defense (vv)
 > - 1 Guard Spec (v)
 > - 3 X Accuracy
 > #### Buy (Botom):
 > - 11 Max Repel (^^)
-> - 8 Hyper Potions (<<v)
+> - 11 Hyper Potions (<<v)
 > - MAX Full Restore(vv)
 
 Bike to the Harbor.
@@ -708,7 +710,6 @@ Bike to the Harbor.
   :::::
 :::::::
 
-If you have no Mist Ball PP left, heal to full and use the Elixir.
 
 **Might want to save here** 
 
@@ -758,6 +759,7 @@ Exiting the puzzle:
   :::
 :::::
 
+- Heal to full.
 - Swap Latias and Mudkip so Latias is 2nd
 
 :::::trainer[Liza & Tate]
@@ -948,6 +950,8 @@ At the Pokémon Center, deposit Castform, Latias and Kyogre. Keep mudkip dead.
       - Heal Chestnaught
       - Swap back to Chestnaught after death
       - Sword Dance
+      - Seed Bomb
+    - If Confuse Ray'd:
       - Seed Bomb
   :::::
   :::::pokemon[Dusknoir]{info="Heal if Ice Punch Range" infoColor=blue}
